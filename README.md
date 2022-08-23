@@ -4,6 +4,8 @@
 
 ***Licenciada en Ciencias de la Tierra***
 
+![](https://github.com/julietalopher/perfil-academico/blob/main/kingfisher.jpg)
+
 ## Áreas de interes  
 1. Seguridad Hídrica
 2. Gestión integral de cuencas
