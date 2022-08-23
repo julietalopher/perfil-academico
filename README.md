@@ -14,7 +14,7 @@
 
 ## Experiencia
 - Consultora ambiental en [ERM Environmental Resources Management](https://www.erm.com)
-- Consultaoria en [El Maíz Más Pequeño A.C.](https://www.elmaizmaspequeno.org/)
+- Consultoria en [El Maíz Más Pequeño A.C.](https://www.elmaizmaspequeno.org/)
 - Consultora e instructura en SIG en [Taller de Innovación Urbana](https://innovacionurbana.teachable.com/)
 - Asistente de profesor en Facultad de Ciencias, [UNAM](https://www.unam.mx/).
 
