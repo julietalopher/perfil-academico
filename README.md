@@ -13,8 +13,7 @@
 4. Fitoremediación.
 
 ## Experiencia
-<img src="https://www.erm.com/contentassets/5db737464e734daba2c2c49b85cf7045/erm-logo.jpg" alt="Kingfisher" width="100" height="75" />
-<img src="https://www.erm.com/contentassets/5db737464e734daba2c2c49b85cf7045/erm-logo.jpg" alt="Kingfisher" width="100" height="75" />
+<img src="https://www.erm.com/contentassets/5db737464e734daba2c2c49b85cf7045/erm-logo.jpg" alt="Kingfisher" width="100" height="75" /> <img src="logo.jpg" alt="Kingfisher" width="100" height="75" /> <img src="tiu.jpg" alt="Kingfisher" width="100" height="75" />
 - Consultora ambiental en [ERM Environmental Resources Management](https://www.erm.com)
 - Consultoria en [El Maíz Más Pequeño A.C.](https://www.elmaizmaspequeno.org/)
 - Consultora e instructura en SIG en [Taller de Innovación Urbana](https://innovacionurbana.teachable.com/)
