@@ -6,6 +6,8 @@
 
 ![](kingfisher.jpg)
 
+[![ERM](kingfisher.jpg)](https://www.linkedin.com/in/julieta-l%C3%B3pez-hern%C3%A1ndez/)
+
 ## Áreas de interes  
 1. Seguridad Hídrica
 2. Gestión integral de cuencas
@@ -14,8 +16,6 @@
 
 ## Experiencia
 <img src="https://www.erm.com/contentassets/5db737464e734daba2c2c49b85cf7045/erm-logo.jpg" alt="Kingfisher" width="150" height="100" /> <img src="logo.png" alt="Kingfisher" width="100" height="100" /> <img src="TIU.png" alt="Kingfisher" width="100" height="100" /> <img src="unam.png" alt="Kingfisher" width="100" height="100" />
-
-[![ERM](https://www.erm.com/contentassets/5db737464e734daba2c2c49b85cf7045/erm-logo.jpg)](https://www.erm.com)
 
 - Consultora ambiental en [ERM Environmental Resources Management](https://www.erm.com)
   - Ejecución de proyectos de remediación.
