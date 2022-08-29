@@ -4,10 +4,8 @@
 
 ***Licenciada en Ciencias de la Tierra***
 
-<img src="kingfisher.jpg" alt="Linkedin" width="150" height="100" onclick="window.open('https://www.linkedin.com/in/julietalopher');" />
-
 <p><a href="https://www.linkedin.com/in/julietalopher" target="_blank">
-<img src="kingfisher.jpg" alt="kingfisher.com" width="100" height="132">
+<img src="kingfisher.jpg" alt="kingfisher.com" width="150" height="100">
 </a></p>
 
 ## Áreas de interes  
