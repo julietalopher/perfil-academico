@@ -4,7 +4,7 @@
 
 ***Licenciada en Ciencias de la Tierra***
 
-<img src="kingfisher.jpg" alt="Linkedin" width="150" height="100" onclick="window.open('https://www.linkedin.com/in/julieta-l%C3%B3pez-hern%C3%A1ndez/', '_blank');" />
+<img src="kingfisher.jpg" alt="Linkedin" width="150" height="100" onclick="window.open('https://www.linkedin.com/in/julieta-lópez-hernández/');" />
 
 ## Áreas de interes  
 1. Seguridad Hídrica
