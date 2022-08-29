@@ -4,8 +4,6 @@
 
 ***Licenciada en Ciencias de la Tierra***
 
-![](kingfisher.jpg)
-
 [![ERM](kingfisher.jpg)](https://www.linkedin.com/in/julieta-l%C3%B3pez-hern%C3%A1ndez/)
 
 ## Áreas de interes  
